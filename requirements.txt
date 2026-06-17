@@ -1,0 +1,13 @@
+# Core
+pandas>=2.0.0
+requests>=2.31.0
+openpyxl>=3.1.0
+
+# Banco de dados
+duckdb>=0.10.0
+
+# Base dos Dados (IBGE, CAGED, RAIS via BigQuery)
+basedosdados>=1.6.0
+
+# Qualidade de dados (opcional — para validações avançadas)
+# great-expectations>=0.18.0

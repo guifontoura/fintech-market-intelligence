@@ -1,0 +1,171 @@
+﻿municipio_nome,secao_nome,n_empresas,ano_referencia
+SANTOS,Comércio,15821,2026
+PRAIA GRANDE,Comércio,14484,2026
+SANTOS,Serviços Administrativos,14148,2026
+SAO VICENTE,Comércio,13490,2026
+GUARUJA,Comércio,11212,2026
+SANTOS,Outros Serviços,8652,2026
+SANTOS,Atividades Profissionais,7792,2026
+PRAIA GRANDE,Serviços Administrativos,7339,2026
+SANTOS,Transporte e Armazenagem,7070,2026
+PRAIA GRANDE,Transporte e Armazenagem,7062,2026
+PRAIA GRANDE,Alojamento e Alimentação,6888,2026
+SAO VICENTE,Alojamento e Alimentação,6847,2026
+SANTOS,Alojamento e Alimentação,6574,2026
+PRAIA GRANDE,Outros Serviços,5849,2026
+PRAIA GRANDE,Construção,5823,2026
+SAO VICENTE,Outros Serviços,5814,2026
+SAO VICENTE,Transporte e Armazenagem,5646,2026
+GUARUJA,Alojamento e Alimentação,5092,2026
+GUARUJA,Outros Serviços,4983,2026
+GUARUJA,Serviços Administrativos,4786,2026
+SANTOS,Saúde e Serviços Sociais,4406,2026
+GUARUJA,Transporte e Armazenagem,4361,2026
+SANTOS,Educação,4333,2026
+ITANHAEM,Comércio,4227,2026
+SANTOS,Construção,4150,2026
+SANTOS,Indústria de Transformação,4030,2026
+CUBATAO,Comércio,3943,2026
+PRAIA GRANDE,Indústria de Transformação,3887,2026
+SAO VICENTE,Serviços Administrativos,3784,2026
+GUARUJA,Construção,3744,2026
+GUARUJA,Indústria de Transformação,3688,2026
+PRAIA GRANDE,Atividades Profissionais,3420,2026
+SANTOS,Informação e Comunicação,3386,2026
+SAO VICENTE,Construção,3351,2026
+SAO VICENTE,Indústria de Transformação,3250,2026
+PERUIBE,Comércio,3092,2026
+BERTIOGA,Comércio,2659,2026
+MONGAGUA,Comércio,2488,2026
+GUARUJA,Atividades Profissionais,2119,2026
+SAO VICENTE,Atividades Profissionais,2012,2026
+ITANHAEM,Alojamento e Alimentação,1928,2026
+GUARUJA,Educação,1889,2026
+CUBATAO,Alojamento e Alimentação,1865,2026
+PRAIA GRANDE,Educação,1799,2026
+BERTIOGA,Serviços Administrativos,1702,2026
+ITANHAEM,Transporte e Armazenagem,1697,2026
+CUBATAO,Transporte e Armazenagem,1661,2026
+BERTIOGA,Construção,1556,2026
+SAO VICENTE,Educação,1517,2026
+CUBATAO,Outros Serviços,1515,2026
+ITANHAEM,Outros Serviços,1471,2026
+PRAIA GRANDE,Saúde e Serviços Sociais,1405,2026
+SANTOS,Atividades Financeiras,1357,2026
+SANTOS,Atividades Imobiliárias,1353,2026
+SAO VICENTE,Saúde e Serviços Sociais,1341,2026
+BERTIOGA,Alojamento e Alimentação,1341,2026
+SANTOS,Artes e Cultura,1327,2026
+MONGAGUA,Outros Serviços,1313,2026
+PERUIBE,Alojamento e Alimentação,1290,2026
+ITANHAEM,Serviços Administrativos,1272,2026
+ITANHAEM,Construção,1228,2026
+MONGAGUA,Transporte e Armazenagem,1177,2026
+PERUIBE,Outros Serviços,1170,2026
+MONGAGUA,Alojamento e Alimentação,1107,2026
+GUARUJA,Saúde e Serviços Sociais,1100,2026
+CUBATAO,Serviços Administrativos,1094,2026
+PRAIA GRANDE,Informação e Comunicação,1064,2026
+MONGAGUA,Serviços Administrativos,1010,2026
+PERUIBE,Construção,994,2026
+BERTIOGA,Outros Serviços,971,2026
+ITANHAEM,Indústria de Transformação,963,2026
+MONGAGUA,Construção,940,2026
+GUARUJA,Outros,934,2026
+PERUIBE,Serviços Administrativos,923,2026
+PRAIA GRANDE,Outros,922,2026
+PERUIBE,Transporte e Armazenagem,855,2026
+CUBATAO,Indústria de Transformação,843,2026
+ITANHAEM,Atividades Profissionais,837,2026
+CUBATAO,Construção,799,2026
+PERUIBE,Indústria de Transformação,779,2026
+SAO VICENTE,Informação e Comunicação,759,2026
+SAO VICENTE,Outros,695,2026
+GUARUJA,Informação e Comunicação,690,2026
+PRAIA GRANDE,Atividades Imobiliárias,686,2026
+BERTIOGA,Indústria de Transformação,650,2026
+PERUIBE,Atividades Profissionais,608,2026
+CUBATAO,Educação,593,2026
+BERTIOGA,Atividades Profissionais,578,2026
+CUBATAO,Atividades Profissionais,577,2026
+MONGAGUA,Indústria de Transformação,550,2026
+ITANHAEM,Educação,516,2026
+PRAIA GRANDE,Artes e Cultura,503,2026
+BERTIOGA,Transporte e Armazenagem,492,2026
+GUARUJA,Artes e Cultura,480,2026
+PERUIBE,Educação,473,2026
+SANTOS,Outros,472,2026
+SAO VICENTE,Artes e Cultura,465,2026
+MONGAGUA,Atividades Profissionais,459,2026
+BERTIOGA,Atividades Imobiliárias,422,2026
+GUARUJA,Atividades Imobiliárias,408,2026
+BERTIOGA,Educação,365,2026
+PERUIBE,Saúde e Serviços Sociais,325,2026
+PRAIA GRANDE,Atividades Financeiras,320,2026
+CUBATAO,Saúde e Serviços Sociais,302,2026
+BERTIOGA,Outros,300,2026
+ITANHAEM,Saúde e Serviços Sociais,290,2026
+ITANHAEM,Informação e Comunicação,287,2026
+GUARUJA,Atividades Financeiras,262,2026
+PERUIBE,Informação e Comunicação,245,2026
+MONGAGUA,Educação,241,2026
+CUBATAO,Artes e Cultura,222,2026
+CUBATAO,Informação e Comunicação,203,2026
+ITANHAEM,Artes e Cultura,202,2026
+PERUIBE,Outros,187,2026
+MONGAGUA,Saúde e Serviços Sociais,186,2026
+BERTIOGA,Saúde e Serviços Sociais,185,2026
+BERTIOGA,Informação e Comunicação,179,2026
+PERUIBE,Artes e Cultura,177,2026
+SAO VICENTE,Atividades Imobiliárias,176,2026
+BERTIOGA,Artes e Cultura,154,2026
+ITANHAEM,Outros,150,2026
+SAO VICENTE,Atividades Financeiras,150,2026
+MONGAGUA,Informação e Comunicação,146,2026
+CUBATAO,Outros,145,2026
+ITANHAEM,Atividades Imobiliárias,142,2026
+PERUIBE,Atividades Imobiliárias,115,2026
+GUARUJA,Água e Saneamento,115,2026
+SAO VICENTE,Água e Saneamento,112,2026
+BERTIOGA,Atividades Financeiras,110,2026
+PRAIA GRANDE,Agricultura e Pecuária,109,2026
+PRAIA GRANDE,Água e Saneamento,105,2026
+MONGAGUA,Outros,94,2026
+MONGAGUA,Atividades Imobiliárias,91,2026
+SANTOS,Agricultura e Pecuária,90,2026
+GUARUJA,Agricultura e Pecuária,84,2026
+MONGAGUA,Artes e Cultura,82,2026
+SANTOS,Água e Saneamento,79,2026
+SAO VICENTE,Agricultura e Pecuária,75,2026
+ITANHAEM,Água e Saneamento,72,2026
+ITANHAEM,Agricultura e Pecuária,61,2026
+PERUIBE,Atividades Financeiras,60,2026
+CUBATAO,Água e Saneamento,54,2026
+SANTOS,Eletricidade e Gás,54,2026
+ITANHAEM,Atividades Financeiras,53,2026
+MONGAGUA,Água e Saneamento,49,2026
+PERUIBE,Agricultura e Pecuária,47,2026
+MONGAGUA,Atividades Financeiras,44,2026
+PERUIBE,Água e Saneamento,40,2026
+CUBATAO,Atividades Financeiras,35,2026
+CUBATAO,Atividades Imobiliárias,32,2026
+BERTIOGA,Agricultura e Pecuária,31,2026
+BERTIOGA,Água e Saneamento,30,2026
+CUBATAO,Agricultura e Pecuária,27,2026
+MONGAGUA,Agricultura e Pecuária,25,2026
+SANTOS,Administração Pública,22,2026
+SAO VICENTE,Administração Pública,21,2026
+GUARUJA,Administração Pública,19,2026
+CUBATAO,Administração Pública,18,2026
+PRAIA GRANDE,Administração Pública,16,2026
+PERUIBE,Administração Pública,11,2026
+SANTOS,Indústria Extrativa,11,2026
+BERTIOGA,Administração Pública,10,2026
+ITANHAEM,Administração Pública,9,2026
+MONGAGUA,Administração Pública,8,2026
+ITANHAEM,Indústria Extrativa,4,2026
+PERUIBE,Indústria Extrativa,4,2026
+SAO VICENTE,Indústria Extrativa,3,2026
+CUBATAO,Eletricidade e Gás,2,2026
+MONGAGUA,Indústria Extrativa,2,2026
+GUARUJA,Indústria Extrativa,1,2026

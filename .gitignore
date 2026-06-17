@@ -1,0 +1,44 @@
+# --- Ambientes Virtuais e Dependências ---
+.venv/
+venv/
+ENV/
+env/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDEs (Configurações do PyCharm e VS Code) ---
+.idea/
+.vscode/
+
+# --- Bancos de Dados Pesados (Essencial para o seu projeto) ---
+*.db
+*.sqlite
+*.sqbpro
+
+# --- Pastas de Dados Locais (Evita subir gigabytes de logs/tabelas) ---
+data/raw/
+data/processed/
+downloads/
+
+# --- Logs e Arquivos Temporários ---
+*.log
+.DS_Store
+
+# --- Camada de Dashboards ---
+# Ignoramos o arquivo de leads brutos porque ele tem quase 50 MB e vai travar seu Git
+dashboards/*
+
+# PERMISSÕES ESPECÍFICAS:
+# Queremos que o GitHub veja APENAS os resultados agregados e leves que geram os gráficos
+!dashboards/tam_por_municipio.csv
+!dashboards/setores_ranking.csv
+
+# Ignorar o executável do Metabase
+export_metabase/
+metabase.db.*
+*.db.mv.db
+*.db.trace.db
+plugins/
+*.jar
