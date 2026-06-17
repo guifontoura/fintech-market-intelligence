@@ -4,7 +4,7 @@ Pipeline de inteligência de mercado B2B para mapeamento do TAM regional,
 segmentação de leads e scoring de propensão — processando 71M de registros da Receita Federal, 
 identificando +22k Hot Leads com R$391M de LTV estimado para produto financeiro premium.
 
-![Dashboard Executivo](docs/images/resumo_executivo_01.png)
+![Dashboard Executivo](docs/images/resumo_executivo_01.jpg)
 
 ## Resultados
 - **287.156 empresas** mapeadas em 9 municípios (validadas vs SEBRAE 2024)
@@ -218,16 +218,16 @@ Para conectar no Metabase: `Add Database → SQLite → caminho para dashboard.d
 ### Capturas do Dashboard
 
 #### 1) Resumo Executivo
-![Resumo Executivo - parte 1](docs/images/resumo_executivo_01.png)
-![Resumo Executivo - parte 2](docs/images/resumo_executivo_02.png)
+![Resumo Executivo - parte 1](docs/images/resumo_executivo_01.jpg)
+![Resumo Executivo - parte 2](docs/images/resumo_executivo_02.jpg)
 
 #### 2) Leads Potenciais
-![Leads Potenciais - parte 1](docs/images/leads_potenciais_01.png)
-![Leads Potenciais - parte 2](docs/images/leads_potenciais_02.png)
+![Leads Potenciais - parte 1](docs/images/leads_potenciais_01.jpg)
+![Leads Potenciais - parte 2](docs/images/leads_potenciais_02.jpg)
 
 #### 3) Análise Regional
-![Análise Regional - parte 1](docs/images/analise_regional_01.png)
-![Análise Regional - parte 2](docs/images/analise_regional_02.png)
+![Análise Regional - parte 1](docs/images/analise_regional_01.jpg)
+![Análise Regional - parte 2](docs/images/analise_regional_02.jpg)
 
 [Ver PDF completo do dashboard](docs/dashboard_metabase_fintech_market_intelligence.pdf)
 
